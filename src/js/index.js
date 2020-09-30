@@ -1,3 +1,10 @@
-import '../scss/main.scss';
+import "../scss/main.scss";
 
-console.log('HELLO 🚀')
+console.log("HELLO 🚀");
+
+fetch("https://api.github.com/users/AniaGall/repos")
+  .then((res) => res.json())
+  .then((res) => {
+    console.log(res);
+  })
+  .catch((e) => console.log(e));
