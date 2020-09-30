@@ -1,14 +1,19 @@
 ![cover](https://cotenfrontend.pl/img/cover.png)
 
-# WTF Webpack Starter Kit 
+# Portfolio - Anna Gaładyk
 
-Simple toolkit for your static websites development.
+This is my portfolio
 
-## How to use it?
+## Tools
 
-Click on `Use this template` button to generate a new repository based on this starter kit. After that clone it to your computer, go to the project directory in console and type `npm install`.
+- WTF Webpack starterkit
+- HTML + CSS + JS
+- GitHub API
+- CSS Grid and CSS Flex
 
 ## Available scripts
+
+First do `npm install` and then:
 
 `npm run start` - runs development mode
 
