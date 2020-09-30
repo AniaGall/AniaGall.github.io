@@ -28,11 +28,11 @@
   &__description {
     text-align: center;
     @media (min-width: $desktop) {
-      min-width: 786px;
+      max-width: 786px;
       margin: 0 auto;
       position: relative;
       &::before, &::after {
-        width: 82.94px;
+        width: 83.23px;
         height: 254.88px;
         content: '';
         display: block;

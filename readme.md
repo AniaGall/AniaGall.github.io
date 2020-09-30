@@ -1,4 +1,4 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
+![cover](./gh/portfolio.png)
 
 # Portfolio - Anna Gaładyk
 
