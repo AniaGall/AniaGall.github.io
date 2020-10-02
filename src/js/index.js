@@ -1,6 +1,6 @@
 import "../scss/main.scss";
 
-console.log("HELLO 🚀");
+console.log("Hi, I'm Ania -  nice to meet you 🚀");
 
 fetch("https://api.github.com/users/AniaGall/repos")
   .then((res) => res.json())
@@ -29,6 +29,8 @@ fetch("https://api.github.com/users/AniaGall/repos")
       <span class="project__label">demo:</span>
       <span>
       &lt;<a 
+      target="_blank"
+      rel="noopener noreferrer"
       class="project__link" 
       href="${homepage}" 
       title="${name} - demo">
@@ -39,6 +41,8 @@ fetch("https://api.github.com/users/AniaGall/repos")
       <span class="project__label">github:</span>
       <span>
       &lt;<a 
+      target="_blank"
+      rel="noopener noreferrer"
       class="project__link" 
       href="${html_url}" 
       title="${name} - code"
